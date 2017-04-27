@@ -1,0 +1,13 @@
+﻿  Textures.cpp
+  Source.cpp
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(139): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(144): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(196): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(198): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(202): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(300): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\kamislaw\documents\visual studio 2015\projects\zajecia3\program2\source.cpp(304): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  Program2.vcxproj -> C:\Users\Kamislaw\Documents\Visual Studio 2015\Projects\Zajecia3\x64\Debug\Program2.exe
+  Program2.vcxproj -> C:\Users\Kamislaw\Documents\Visual Studio 2015\Projects\Zajecia3\x64\Debug\Program2.pdb (Partial PDB)
